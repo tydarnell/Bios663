@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.25)  1 FEB 2019 14:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.25)  5 FEB 2019 14:58
 entering extended mode
 **./663homework1.tex
 (663homework1.tex
@@ -367,54 +367,31 @@ Overfull \hbox (96.70381pt too wide) detected at line 47
 
 [1{C:/Users/tydar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-]
-Underfull \hbox (badness 10000) detected at line 155
- []$[]    $ 
- []
-
-[2]
-Underfull \hbox (badness 10000) detected at line 161
- []$[]    $ 
- []
-
-
-Underfull \hbox (badness 10000) detected at line 164
- []$[]    $ 
- []
-
-
-Underfull \hbox (badness 10000) detected at line 167
- []$[]    $ 
- []
-
-
-Underfull \hbox (badness 10000) detected at line 170
- []$[]    $ 
- []
-
-[3] (663homework1.aux) ) 
+] [2]
+[3] [4] (663homework1.aux) ) 
 Here is how much of TeX's memory you used:
  4755 strings out of 492973
  72686 string characters out of 3126692
- 154798 words of memory out of 3000000
+ 156798 words of memory out of 3000000
  8549 multiletter control sequences out of 15000+200000
  8701 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,43p,294b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tydar/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/tydar/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/tydar/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C
-:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr7.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/tydar/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on 663homework1.pdf (3 pages, 93169 bytes).
+<C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tydar/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/tydar/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ty
+dar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+<C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmib10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/tydar/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/tydar/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/tydar/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on 663homework1.pdf (4 pages, 109951 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
