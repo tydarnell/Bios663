@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.25)  6 FEB 2019 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.25)  19 FEB 2019 16:40
 entering extended mode
-**./663homework1.tex
-(663homework1.tex
+**./663homework2.tex
+(663homework2.tex
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Users\tydar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -251,21 +251,21 @@ s
 \f@nch@O@erf=\skip59
 \f@nch@O@olf=\skip60
 \f@nch@O@orf=\skip61
-) (663homework1.aux)
-\openout1 = `663homework1.aux'.
+) (663homework2.aux)
+\openout1 = `663homework2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 ("C:\Users\tydar\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
@@ -347,51 +347,76 @@ G,.JBIG2,.JB2,.eps]
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 
 ("C:\Users\tydar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 ("C:\Users\tydar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (54.5562pt too wide) detected at line 49
- []$[][]$ 
+Overfull \hbox (60.49425pt too wide) detected at line 69
+ []$[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[]X\OT1/cmr/m/n/10 )[] = [][] = [] [] 
+= []$ 
  []
 
 
-Overfull \hbox (107.6397pt too wide) detected at line 49
- []$[][]$ 
+Overfull \hbox (55.86617pt too wide) detected at line 112
+ []$[][] \OT1/cmr/m/n/10 = (\OML/cmm/m/it/10 X[]X\OT1/cmr/m/n/10 )[]\OML/cmm/m/
+it/10 X[]Y \OT1/cmr/m/n/10 = [] [] [] = [] [] = []$ 
  []
 
 [1{C:/Users/tydar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ] [2]
-[3] [4] (663homework1.aux) ) 
+[3] [4]
+Overfull \hbox (34.8073pt too wide) in paragraph at lines 381--392
+[]  
+ []
+
+[5]
+<mod.png, id=26, 396.98312pt x 293.095pt>
+File: mod.png Graphic file (type png)
+<use mod.png>
+Package pdftex.def Info: mod.png  used on input line 417.
+(pdftex.def)             Requested size: 317.58691pt x 234.4763pt.
+ [6 <./mod.png>]
+<anova.png, id=32, 290.58563pt x 132.99687pt>
+File: anova.png Graphic file (type png)
+<use anova.png>
+Package pdftex.def Info: anova.png  used on input line 426.
+(pdftex.def)             Requested size: 203.40854pt x 93.09717pt.
+<conf.png, id=33, 282.05376pt x 203.76125pt>
+File: conf.png Graphic file (type png)
+<use conf.png>
+Package pdftex.def Info: conf.png  used on input line 445.
+(pdftex.def)             Requested size: 197.43626pt x 142.6319pt.
+ [7 <./anova.png> <./conf.png>] (663homework2.aux) ) 
 Here is how much of TeX's memory you used:
- 4755 strings out of 492973
- 72686 string characters out of 3126692
- 154798 words of memory out of 3000000
- 8549 multiletter control sequences out of 15000+200000
- 8701 words of font info for 33 fonts, out of 3000000 for 9000
+ 4752 strings out of 492973
+ 72681 string characters out of 3126692
+ 157801 words of memory out of 3000000
+ 8552 multiletter control sequences out of 15000+200000
+ 5944 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,43p,294b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tydar/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/tydar/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ty
-dar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
-<C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmib10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/tydar/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/tydar/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/tydar/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on 663homework1.pdf (4 pages, 110300 bytes).
+ 41i,13n,43p,294b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/tydar/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tyda
+r/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/tydar/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/tydar/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/tydar/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
+s/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.
+pfb><C:/Users/tydar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb>
+Output written on 663homework2.pdf (7 pages, 153602 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

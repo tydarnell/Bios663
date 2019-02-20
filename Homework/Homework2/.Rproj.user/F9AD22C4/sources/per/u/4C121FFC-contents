@@ -1,0 +1,3 @@
+new <- data.frame(hw2$index=16)
+pred.plim <- predict(mod, new, interval = "prediction")
+pred.clim <- predict(mod, new, interval = "confidence")
