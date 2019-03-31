@@ -1,0 +1,41 @@
+\BOOKMARK [-1][]{part.1}{I Weisberg}{}% 1
+\BOOKMARK [0][]{chapter.1}{Scatter Plots and Regression}{part.1}% 2
+\BOOKMARK [0][]{chapter.2}{Simple Linear Regression}{part.1}% 3
+\BOOKMARK [1][]{section.2.1}{Ordinary Least Squares Estimation}{chapter.2}% 4
+\BOOKMARK [1][]{section.2.2}{Estimating the Variance}{chapter.2}% 5
+\BOOKMARK [1][]{section.2.3}{Confidence Intervals and t-Tests}{chapter.2}% 6
+\BOOKMARK [1][]{section.2.4}{Prediction}{chapter.2}% 7
+\BOOKMARK [1][]{section.2.5}{Fitted Values}{chapter.2}% 8
+\BOOKMARK [1][]{section.2.6}{Coefficient of Determination}{chapter.2}% 9
+\BOOKMARK [1][]{section.2.7}{Residuals}{chapter.2}% 10
+\BOOKMARK [0][]{chapter.3}{Multiple Regression}{part.1}% 11
+\BOOKMARK [1][]{section.3.1}{Adding a Regressor to an SLR Model}{chapter.3}% 12
+\BOOKMARK [1][]{section.3.2}{The MLR Model}{chapter.3}% 13
+\BOOKMARK [1][]{section.3.3}{Predictors and Regressors}{chapter.3}% 14
+\BOOKMARK [1][]{section.3.4}{Ordinary Least Squares}{chapter.3}% 15
+\BOOKMARK [2][]{subsection.3.4.1}{The Errors e}{section.3.4}% 16
+\BOOKMARK [2][]{subsection.3.4.2}{OLS Estimators}{section.3.4}% 17
+\BOOKMARK [-1][]{part.2}{II Class Notes}{}% 18
+\BOOKMARK [0][]{chapter.4}{Notes 2 Matrix Algebra}{part.2}% 19
+\BOOKMARK [1][]{section.4.1}{Orthogonal}{chapter.4}% 20
+\BOOKMARK [1][]{section.4.2}{Rules of Matrix Operation}{chapter.4}% 21
+\BOOKMARK [1][]{section.4.3}{Linear Dependence and Rank}{chapter.4}% 22
+\BOOKMARK [1][]{section.4.4}{Determinants}{chapter.4}% 23
+\BOOKMARK [1][]{section.4.5}{Positive Definite and Semidefinite Matrices}{chapter.4}% 24
+\BOOKMARK [1][]{section.4.6}{Inverses}{chapter.4}% 25
+\BOOKMARK [1][]{section.4.7}{Eigenvalues and Eigenvectors}{chapter.4}% 26
+\BOOKMARK [1][]{section.4.8}{Finding Eigenvectors and Eigenvalues}{chapter.4}% 27
+\BOOKMARK [1][]{section.4.9}{Properties of Eigenvalues and Eigenvectors}{chapter.4}% 28
+\BOOKMARK [1][]{section.4.10}{Random Vectors and Matrices}{chapter.4}% 29
+\BOOKMARK [1][]{section.4.11}{Multivariate Normal Distribution}{chapter.4}% 30
+\BOOKMARK [1][]{section.4.12}{Facts about the multivariate normal distribution}{chapter.4}% 31
+\BOOKMARK [0][]{chapter.5}{GLM Estimation and Testing}{part.2}% 32
+\BOOKMARK [1][]{section.5.1}{GLH}{chapter.5}% 33
+\BOOKMARK [1][]{section.5.2}{Estimability of a Parameter}{chapter.5}% 34
+\BOOKMARK [1][]{section.5.3}{Testability of a Hypothesis}{chapter.5}% 35
+\BOOKMARK [1][]{section.5.4}{Computation of Test Statistic and p-value}{chapter.5}% 36
+\BOOKMARK [1][]{section.5.5}{Wald Tests}{chapter.5}% 37
+\BOOKMARK [1][]{section.5.6}{F-Tests}{chapter.5}% 38
+\BOOKMARK [0][]{chapter.6}{Some Distributional Results for the GLM}{part.2}% 39
+\BOOKMARK [1][]{section.6.1}{A Full Rank Basis For Less Than Full Rank Models}{chapter.6}% 40
+\BOOKMARK [0][]{chapter.7}{Multiple Regression General Consideration}{part.2}% 41

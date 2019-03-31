@@ -1,0 +1,2 @@
+"0","mod=lm(data = hw3, avfvc ~ height + weight + bmi + area + age + avtrel + avtrsp + avtrel*avtrsp+ temp + barom + humid)"
+"0","datresid=hw3%>%mutate(resid=resid(mod))%>%mutate(sresid=abs(studres(mod)))"

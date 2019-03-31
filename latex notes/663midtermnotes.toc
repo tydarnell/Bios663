@@ -1,0 +1,42 @@
+\babel@toc {english}{}
+\contentsline {part}{I\hspace {1em}Weisberg}{3}{part.1}
+\contentsline {chapter}{\numberline {1}Scatter Plots and Regression}{4}{chapter.1}
+\contentsline {chapter}{\numberline {2}Simple Linear Regression}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ordinary Least Squares Estimation}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Estimating the Variance}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Confidence Intervals and t-Tests}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Prediction}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Fitted Values}{7}{section.2.5}
+\contentsline {section}{\numberline {2.6}Coefficient of Determination}{7}{section.2.6}
+\contentsline {section}{\numberline {2.7}Residuals}{7}{section.2.7}
+\contentsline {chapter}{\numberline {3}Multiple Regression}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Adding a Regressor to an SLR Model}{8}{section.3.1}
+\contentsline {section}{\numberline {3.2}The MLR Model}{8}{section.3.2}
+\contentsline {section}{\numberline {3.3}Predictors and Regressors}{8}{section.3.3}
+\contentsline {section}{\numberline {3.4}Ordinary Least Squares}{9}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}The Errors e}{9}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}OLS Estimators}{10}{subsection.3.4.2}
+\contentsline {part}{II\hspace {1em}Class Notes}{11}{part.2}
+\contentsline {chapter}{\numberline {4}Notes 2 Matrix Algebra}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Orthogonal}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Rules of Matrix Operation}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Linear Dependence and Rank}{13}{section.4.3}
+\contentsline {section}{\numberline {4.4}Determinants}{13}{section.4.4}
+\contentsline {section}{\numberline {4.5}Positive Definite and Semidefinite Matrices}{13}{section.4.5}
+\contentsline {section}{\numberline {4.6}Inverses}{14}{section.4.6}
+\contentsline {section}{\numberline {4.7}Eigenvalues and Eigenvectors}{14}{section.4.7}
+\contentsline {section}{\numberline {4.8}Finding Eigenvectors and Eigenvalues}{15}{section.4.8}
+\contentsline {section}{\numberline {4.9}Properties of Eigenvalues and Eigenvectors}{15}{section.4.9}
+\contentsline {section}{\numberline {4.10}Random Vectors and Matrices}{16}{section.4.10}
+\contentsline {section}{\numberline {4.11}Multivariate Normal Distribution}{16}{section.4.11}
+\contentsline {section}{\numberline {4.12}Facts about the multivariate normal distribution}{17}{section.4.12}
+\contentsline {chapter}{\numberline {5}GLM Estimation and Testing}{18}{chapter.5}
+\contentsline {section}{\numberline {5.1}GLH}{18}{section.5.1}
+\contentsline {section}{\numberline {5.2}Estimability of a Parameter}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}Testability of a Hypothesis}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Computation of Test Statistic and p-value}{20}{section.5.4}
+\contentsline {section}{\numberline {5.5}Wald Tests}{20}{section.5.5}
+\contentsline {section}{\numberline {5.6}F-Tests}{21}{section.5.6}
+\contentsline {chapter}{\numberline {6}Some Distributional Results for the GLM}{22}{chapter.6}
+\contentsline {section}{\numberline {6.1}A Full Rank Basis For Less Than Full Rank Models}{22}{section.6.1}
+\contentsline {chapter}{\numberline {7}Multiple Regression General Consideration}{24}{chapter.7}
