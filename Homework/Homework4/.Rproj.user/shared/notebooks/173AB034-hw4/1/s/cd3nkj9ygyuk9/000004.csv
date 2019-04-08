@@ -1,0 +1,5 @@
+"0","tob3 <- tob1 %>% mutate("
+"0","t1 = case_when(task == 1 ~ 1, task != 1 ~ 0),"
+"0","t2 = case_when(task == 2 ~ 1, task != 2 ~ 0),"
+"0","t3 = case_when(task == 3 ~ 1, task != 3 ~ 0),"
+"0","t4 = case_when(task == 4 ~ 1, task != 4 ~ 0))"

@@ -1,0 +1,49 @@
+"0","EnvStats::boxcox(rmod, optimize = TRUE)"
+"1","
+Results of Box-Cox Transformation
+"
+"1","---------------------------------
+
+"
+"1","Objective Name:"
+"1","                  "
+"1","PPCC"
+"1","
+
+"
+"1","Linear Model:"
+"1","                    "
+"1","rmod"
+"1","
+
+"
+"1","Sample Size:"
+"1","                     "
+"1","100"
+"1","
+
+"
+"1","Bounds for Optimization:"
+"1","         "
+"1","lower = -2
+                                 upper =  2"
+"1","
+
+"
+"1","Optimal Value:"
+"1","                   "
+"1","lambda = 0.4927123"
+"1","
+
+"
+"1","Value of Objective:"
+"1","              "
+"1","PPCC = 0.9945303"
+"1","
+
+"
+"0","lambda=0.5"
+"0","cox$yt <- (cox$y^lambda)"
+"0","cmod <- lm(cox$yt ~ cox$x)"
+"0","boxcox=autoplot(cmod)"
+"0","regular"

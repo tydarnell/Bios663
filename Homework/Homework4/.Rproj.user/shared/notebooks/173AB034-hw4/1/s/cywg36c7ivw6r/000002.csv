@@ -1,0 +1,6 @@
+"0","mod=lm(data = hw3, avfvc ~ height + weight + bmi + area + age + avtrel + avtrsp + avtrel*avtrsp+ temp + barom + humid)"
+"0","mat=model_matrix(hw3,mod)"
+"0","VIF=vif(mod)"
+"0","tol=1/VIF"
+"0","vt=cbind(VIF,tol)"
+"0","kable(vt)"

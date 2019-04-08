@@ -1,0 +1,3 @@
+"0","mod3 = lm(logcot ~task + task*lnnsmoke, data = tob3)"
+"0","ecell=summary(mod3)$coefficients"
+"0","kable(ecell,format=""markdown"")"

@@ -1,0 +1,4 @@
+"0","bcox2=as_tibble(cbind(bcox$x,bcox$y))"
+"0","colnames(bcox2)=c('x','y')"
+"0","cmod=lm(y~x,bcox2)"
+"0","autoplot(cmod)"

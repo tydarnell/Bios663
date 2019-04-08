@@ -1,0 +1,6 @@
+"0","hw3=fread(""FILEN.DAT"")"
+"0","cnames=c(""id"",""year"",""cohort"",""date"",""days"",""timess"",""height"",""weight"",""age"",""area"",""temp"",""barom"",""humid"",""avtrel"",""avtrsp"",""avfvc"")"
+"0","colnames(hw3)=cnames"
+"0","hw3$weight=as.numeric(hw3$weight)"
+"0","hw3=hw3%>%filter(!is.na(weight))"
+"0","hw3=hw3%>%mutate(bmi=weight/((height/100)^2))"

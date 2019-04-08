@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554756038141.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8321C720",
+    "lastKnownWriteTime" : 13229757704831081,
+    "last_content_update" : 1554756038141,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "663AFF5F",
+        "caption" : "sscp12",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sscp12&cache_key=663AFF5F",
+        "displayedObservations" : 12,
+        "environment" : "",
+        "object" : "sscp12",
+        "preview" : 0,
+        "totalObservations" : 12,
+        "variables" : 1
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

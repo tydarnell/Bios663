@@ -1,0 +1,1 @@
+"0","x = tob3 %>% mutate(int = 1, lt2 = lnnsmoke*t2, lt3 = lnnsmoke*t3, lt4 = lnnsmoke*t4)%>% dplyr::select(int, t2, t3, t4, lnnsmoke, lt2, lt3, lt4) %>% as.matrix()"

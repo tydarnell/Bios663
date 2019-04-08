@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554752178052.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C2BBA8C2",
+    "lastKnownWriteTime" : 13229757704831081,
+    "last_content_update" : 1554752178052,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "740B8650",
+        "caption" : "tob3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tob3&cache_key=740B8650",
+        "displayedObservations" : 694,
+        "environment" : "",
+        "object" : "tob3",
+        "preview" : 0,
+        "totalObservations" : 694,
+        "variables" : 12
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

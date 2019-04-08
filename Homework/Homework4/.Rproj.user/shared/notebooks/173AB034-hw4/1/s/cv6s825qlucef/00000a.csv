@@ -1,0 +1,21 @@
+"0","(rmod=lm(y~x,cox))"
+"1","
+Call:
+"
+"1","lm(formula = y ~ x, data = cox)"
+"1","
+
+"
+"1","Coefficients:
+"
+"1","(Intercept)  "
+"1","          x  "
+"1","
+"
+"1","      6.008  "
+"1","      2.417  "
+"1","
+"
+"1","
+"
+"0","autoplot(rmod)"

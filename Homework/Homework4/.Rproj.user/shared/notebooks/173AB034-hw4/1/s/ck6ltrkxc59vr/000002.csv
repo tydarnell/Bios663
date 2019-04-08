@@ -1,0 +1,4 @@
+"0","x1=model.matrix(~ height + weight + bmi + area + age + avtrel + avtrsp + avtrel*avtrsp+ temp + barom + humid,data=hw3)"
+"0","x2=x1[,-1]"
+"0","cor1=cor(x2)"
+"0","kable(cor1,format='markdown')"

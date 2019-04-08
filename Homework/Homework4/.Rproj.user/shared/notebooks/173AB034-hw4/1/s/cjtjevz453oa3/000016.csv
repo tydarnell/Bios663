@@ -1,0 +1,2 @@
+"0","modresid=resid(rmod)"
+"0","bcox=MASS::boxcox(rmod)"

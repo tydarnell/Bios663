@@ -1,0 +1,6 @@
+"0","tob=fread(""tobacco.dat"")"
+"0","cox=fread(""BoxCox.dat"")"
+"0","colnames(cox)=c('x','y')"
+"0","colnames(tob)=c('cotinine','age','bmi', 'educ', 'wet', 'task','lnnsmoke')"
+"0","tob$wet=factor(tob$wet)"
+"0","tob$task=factor(tob$task)"
