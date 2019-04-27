@@ -22,6 +22,9 @@
         "totalObservations" : 12,
         "variables" : 1
     },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
     "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
